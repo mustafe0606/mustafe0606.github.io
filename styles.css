@@ -1,0 +1,54 @@
+section.top-page {
+    background-color: white;
+    padding: 1px;
+    margin: 0%;
+    background-image: url(./image.html/champ.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-position: center ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+    font-size: 15px;
+    
+
+}
+.top-page{
+    color: white;
+    padding: 0px 20px;
+    border: 10px solid rgb(57, 13, 13);
+}
+
+.top-page p {
+    margin-top: -20px;
+    
+}
+
+.heros{
+    color: rgb(2, 15, 55);
+}
+.top-page ul{
+ color: black;
+   font-family: "playfair display",sans-serif;
+   font-size: 15px;
+}
+body{
+    background-color: rgb(221, 196, 117);
+}
+.champ{
+    color: red;
+    font-size: 20px;
+}
+.mont{
+    color: red;
+    font-size: 20px;
+}
+.rylo{
+    color: red;
+    font-size: 20px;
+}
+.dawg{
+    color: red;
+    font-size: 20px;
+}
